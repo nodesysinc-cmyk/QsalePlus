@@ -1,0 +1,1355 @@
+{
+  "items": [
+    {
+      "product_name": "Smoked Camembert",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Apple Compote, Pecans, Cranberries",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 195
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\appetizers.jpg",
+      "confidence": {
+        "product_name": 95,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Wedge Salad",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Veal Bacon, Pickled Shallots, Tarragon Dressing",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 60
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Shrimp Cocktail",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Whipped Horseradish Cream, Lemon, House Ketchup",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 85
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Tableside Caesar Salad",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Baby Gem, Brioche Croutons, Cured Egg Yolk, Anchovies, Grana Padano, Parmesan, Chicken Breast, Grilled Shrimp, Flank Steak",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 90
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Veal Bone Marrow",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Chicory, Sole Guachiniera Pickles, Brioche Toast",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 85
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Oysters",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Half Lobster, Lemon, Horseradish, Red Wine Vinegar Mignonette, Add On Oyster - Each 25",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 120
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 95,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Lump Crab Cake",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Remoulade, Lemon Gel, Herb Oil",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 95
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Smoked Lobster Thermidor",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Smoked In The Cloche, Béchamel, Gruyère, Truffle Pasta, Charred Lime",
+      "variants": [
+        {
+          "size": "Half",
+          "price": 250
+        },
+        {
+          "size": "Full",
+          "price": 450
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "King Crab Legs",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Chimichurri, House Ketchup, Horseradish Cream, Lemon. Can be served hot with melted herb butter",
+      "variants": [
+        {
+          "size": "300g",
+          "price": 360
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Iowa Corn Soup",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Popcorn, Herb Oil, Smoked Corn",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 40
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Baked Onion Soup",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Thyme, Gruyere, Parmesan, Croutons",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 65
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "USDA Prime Steak Tartare",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Egg, Sirloin, Classic Condiments",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 110
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Torched Marinated Wagyu",
+      "arabic_name": null,
+      "category": "Appetizers & Soups",
+      "description": "Avocado, Ponzu, Spring Onions",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 130
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "USDA Prime",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "Black Angus Braised Short Rib, Striploin, Filet Mignon, Black Angus Porterhouse",
+      "variants": [
+        {
+          "size": "600g",
+          "price": 295
+        },
+        {
+          "size": "800g",
+          "price": 510
+        },
+        {
+          "size": "280g",
+          "price": 295
+        },
+        {
+          "size": "280g",
+          "price": 390
+        },
+        {
+          "size": "780g",
+          "price": 395
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 92,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Black Angus Tomahawk",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "Truffle Duck Fat Fries, Grilled Asparagus, Peppercorn Sauce",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 1260
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 95,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Steak Au Poivre",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "USDA Prime Striploin, Pepper Crusted Steak & Peppercorn Sauce",
+      "variants": [
+        {
+          "size": "300g",
+          "price": 335
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Wagyu",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "Australian Wagyu Delmonico (Grade MB 6-7)",
+      "variants": [
+        {
+          "size": "400g",
+          "price": 395
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Bone In Veal Chop",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "Grain Fed Veal",
+      "variants": [
+        {
+          "size": "400g",
+          "price": 250
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Braised Australian Lamb Shank",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "Minted Peas, Mashed Potatoes, Haricot Verts, Mustard Sauce",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 195
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Homemade Onion Rings",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Panko, Sea Salt, Garlic Mayonnaise",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Grilled Smoked Corn",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Parmesan, Chives, Caramelized Onions",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Creamed Spinach",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Chili Flakes, Nutmeg, Parmesan",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Sauteed Wild Mushroom",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Chimichurri",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Brussels Sprouts",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Beef Bacon, Apple Cider Vinegar, Maple Syrup, Crème Apple",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Truffle Mac & Cheese",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Gruyere, Cheddar, Truffle Breadcrumbs",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Josper Grilled Jumbo Asparagus",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Shallots, Tarragon, Béarnaise",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Mixed Greens",
+      "arabic_name": null,
+      "category": "Sides",
+      "description": "Apples, Fennel, Red Grapes, House Dijon Dressing",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 50
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Truffle Duck Fat Fries",
+      "arabic_name": null,
+      "category": "Spuds",
+      "description": "Truffle Oil, Parmesan, Chives, Fleur Sel, Demi",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Scalloped Potatoes",
+      "arabic_name": null,
+      "category": "Spuds",
+      "description": "Parmesan, Nutmeg, Gruyere",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Mashed Potatoes",
+      "arabic_name": null,
+      "category": "Spuds",
+      "description": "Labneh, Chives, Butter",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Baked Idaho",
+      "arabic_name": null,
+      "category": "Spuds",
+      "description": "Sour Cream, Spring Onions, Veal Bacon",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Pan Seared Salmon",
+      "arabic_name": null,
+      "category": "Plates",
+      "description": "Smoked Corn Succotash, Chimichurri, Potato Skins",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 155
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Whole Roasted Baby Chicken",
+      "arabic_name": null,
+      "category": "Plates",
+      "description": "Truffle Butter, Mashed Potato, Wild Mushrooms, Herb Jus",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 165
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Tagliatelle",
+      "arabic_name": null,
+      "category": "Pasta",
+      "description": "Peas, Mushroom Ragout, Truffle, Grana Padano",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 90
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Gnocchi",
+      "arabic_name": null,
+      "category": "Pasta",
+      "description": "Spinach, Asparagus, Grilled Chicken, Cherry Tomatoes, Parmesan Cream Sauce",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 120
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "The Willis",
+      "arabic_name": null,
+      "category": "Burgers",
+      "description": "170gm Wagyu Beef Patty, American Cheddar Cheese, Lettuce, Tomato, Beef Onion, House Pickles, Ketchup, Mustard, Truffle Duck Fat Fries",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 160
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "The Chicago Crusher",
+      "arabic_name": null,
+      "category": "Burgers",
+      "description": "Double-Smashed Wagyu Beef Patties (160gm), American Cheddar Cheese, Fried Egg, Sweet Pickle Relish, Caramelized Onions, Truffle Duck Fat Fries",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 150
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Chi-Town Platter",
+      "arabic_name": null,
+      "category": "From The Josper",
+      "description": "400g Australian Wagyu Ribeye, 200g Beef Tenderloin, 600g Braised Bone-in Short Rib, Mashed Potato, Smoked Corn, Creamed Spinach, Truffle Mac & Cheese",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 995
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Demi-glace",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Béarnaise",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Chimichurri",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Peppercorn",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Truffle Jus",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Herb Beurre Blanc",
+      "arabic_name": null,
+      "category": "Sauces",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 25
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_1.png"
+    },
+    {
+      "product_name": "Burrata Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Creamy Italian burrata centered on thick tomato slices and fresh arugula, drizzled with olive oil, balsamic glaze, and homemade pesto",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 59.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\burrata_salad.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Beef Carpaccio",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Paper-thin slices of raw beef topped with fresh greens, shaved parmesan, and a drizzle of lemon-infused olive oil",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 55.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\beef_carpaccio.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Bresaola Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Air-dried premium beef served with mixed greens, arugula, and parmesan, lightly dressed with a fruit-vinaigrette",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 49.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\air_dried_premium.jpg",
+      "confidence": {
+        "product_name": 96,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Fried Eggplant Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Golden crispy eggplant slices served with fresh salad and a creamy garlic cheese dip",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 49.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\golden_crispy.jpg",
+      "confidence": {
+        "product_name": 96,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Vegetarian Antipasti Platter",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "A delightful selection of marinated vegetables, olives, cheese and crispy bruschetta",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 47.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\vegetarian_antipasti_platter.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Chicken Caesar Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Crispy chicken served on fresh lettuce with parmesan shavings and dressing",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": null,
+      "confidence": {
+        "product_name": 98,
+        "price": 98,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Sweet Corn Soup",
+      "arabic_name": "شوربة الذرة الحلوة (خضار/دجاج)",
+      "category": "Soups",
+      "description": "Veg/Chicken",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 10.0
+        },
+        {
+          "size": "Large",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 95,
+        "price": 98,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Hot 'N' Sour Soup",
+      "arabic_name": "شوربة حارة وحامضة (خضار/دجاج)",
+      "category": "Soups",
+      "description": "Veg/Chicken",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 10.0
+        },
+        {
+          "size": "Large",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 98,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Italian Creamy Soup",
+      "arabic_name": "شوربة إيطالية بالكريمة (خضار/شمطر)",
+      "category": "Soups",
+      "description": "Veg / Mushroom",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 22.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 95,
+        "arabic_name": 90
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Italian Creamy Soup Chicken",
+      "arabic_name": "شوربة كريمية إيطالية بالدجاج",
+      "category": "Soups",
+      "description": "Chicken",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 24.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 97,
+        "arabic_name": 90
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Dal Shorba",
+      "arabic_name": "شوربة عدس",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 95,
+        "price": 98,
+        "arabic_name": 93
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Manchow Soup",
+      "arabic_name": "شوربة مانشو (خضار/دجاج)",
+      "category": "Soups",
+      "description": "Chicken / Vegetable",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 97,
+        "arabic_name": 91
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Broccoli Cheddar Soup with Cheesy Garlic Bread",
+      "arabic_name": "شوربة بروكولي بالشيدر مع خبز بالثوم والجبن",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 22.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 98,
+        "arabic_name": 88
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Tom Yum Sea Food Soup",
+      "arabic_name": "شوربة توم يام بالمأكولات البحرية",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 98,
+        "arabic_name": 89
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Seafood / Prawn Cream Soup with Cheesy Garlic Bread",
+      "arabic_name": "شوربة كريمية بالمأكولات البحرية/الروبيان مع خبز بالثوم والجبن",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 91,
+        "price": 98,
+        "arabic_name": 86
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Kozhi Rasam",
+      "arabic_name": "شوربة كوزي راسام",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 17.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 95,
+        "price": 98,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Attin Kurumulaku Soup",
+      "arabic_name": "شوربة لحم الخنزير",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 18.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 97,
+        "arabic_name": 78
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Spicy Attinkaal Soup",
+      "arabic_name": "شوربة أتينكال الحارة",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 18.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 97,
+        "arabic_name": 89
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Spicy Mix Seafood Soup",
+      "arabic_name": "شوربة المأكولات البحرية المشكلة الحارة",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 98,
+        "arabic_name": 87
+      },
+      "_source_page": "page_4.png"
+    }
+  ]
+}

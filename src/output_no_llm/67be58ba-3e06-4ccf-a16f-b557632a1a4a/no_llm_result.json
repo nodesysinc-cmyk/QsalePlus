@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "matched_text": "APPETIZERS",
+      "raw_text": "APPETIZERS | FROM | THE JOSPER | SIDES | SMOKED CAMEMBERT (D, N, G) | 195",
+      "detected_label": "photo dish photo",
+      "source_image": "page_1.png",
+      "source_image_path": "page_1.png",
+      "photo_bbox": [
+        15.828811645507812,
+        18.69162368774414,
+        2112.461669921875,
+        2978.677734375
+      ],
+      "confidence": 0.5845596194267273,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\appetizers.jpg"
+    },
+    {
+      "matched_text": "APPETIZERS",
+      "raw_text": "APPETIZERS | FROM | THE JOSPER | SIDES | SMOKED CAMEMBERT (D, N, G) | 195",
+      "detected_label": "food",
+      "source_image": "page_1.png",
+      "source_image_path": "page_1.png",
+      "photo_bbox": [
+        15.982912063598633,
+        19.444128036499023,
+        2111.75390625,
+        2976.39013671875
+      ],
+      "confidence": 0.3846466541290283,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\appetizers_2.jpg"
+    },
+    {
+      "matched_text": "Burrata Salad",
+      "raw_text": "Burrata Salad | Creamy Italian | thick tomato slices and fresh arugula, | drizzled with olive oil, balsamic glaze, | and homemade pesto | burrata",
+      "detected_label": "food dish",
+      "source_image": "page_2.png",
+      "source_image_path": "page_2.png",
+      "photo_bbox": [
+        65.24394226074219,
+        552.9888305664062,
+        331.22576904296875,
+        814.2059326171875
+      ],
+      "confidence": 0.41679617762565613,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\burrata_salad.jpg"
+    },
+    {
+      "matched_text": "Air-dried premium",
+      "raw_text": "Air-dried premium | mixed greens, arugula, and parmesan, | lightly dressed with | beef served with | fruit | Fried Eggplant Salad",
+      "detected_label": "food dish",
+      "source_image": "page_2.png",
+      "source_image_path": "page_2.png",
+      "photo_bbox": [
+        51.54601287841797,
+        1058.079345703125,
+        336.1054992675781,
+        1235.11376953125
+      ],
+      "confidence": 0.4322209060192108,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\air_dried_premium.jpg"
+    },
+    {
+      "matched_text": "Vegetarian Antipasti Platter",
+      "raw_text": "Vegetarian Antipasti Platter | delightful selection of marinated vegetables, olives, cheese and crispy bruschetta",
+      "detected_label": "food dish",
+      "source_image": "page_2.png",
+      "source_image_path": "page_2.png",
+      "photo_bbox": [
+        113.53858947753906,
+        1463.3311767578125,
+        370.9296875,
+        1713.8516845703125
+      ],
+      "confidence": 0.42486733198165894,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\vegetarian_antipasti_platter.jpg"
+    },
+    {
+      "matched_text": "Beef Carpaccio",
+      "raw_text": "Beef Carpaccio | with fresh greens, shaved | Paper-thin slices | and | oil | 59QR",
+      "detected_label": "food dish",
+      "source_image": "page_2.png",
+      "source_image_path": "page_2.png",
+      "photo_bbox": [
+        925.6215209960938,
+        538.2677612304688,
+        1217.7955322265625,
+        834.7916870117188
+      ],
+      "confidence": 0.36194363236427307,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\beef_carpaccio.jpg"
+    },
+    {
+      "matched_text": "Golden crispy",
+      "raw_text": "Golden crispy | with fresh salad and | cheese dip | 49 QR | mixed greens, arugula, and parmesan, | beef served with",
+      "detected_label": "food dish",
+      "source_image": "page_2.png",
+      "source_image_path": "page_2.png",
+      "photo_bbox": [
+        936.7255249023438,
+        1059.4774169921875,
+        1184.8070068359375,
+        1195.9197998046875
+      ],
+      "confidence": 0.35922589898109436,
+      "image_file": "output_no_llm\\67be58ba-3e06-4ccf-a16f-b557632a1a4a\\cropped_images\\golden_crispy.jpg"
+    }
+  ]
+}

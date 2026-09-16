@@ -1,0 +1,31 @@
+# --- Core / config ---
+python-dotenv
+
+# --- Image processing / vision models (Grounding DINO + EasyOCR pipeline) ---
+torch
+transformers
+pillow
+easyocr
+
+# --- Async HTTP (image search / download flow) ---
+aiohttp
+
+# --- LLM APIs ---
+anthropic
+openai
+
+# --- Text similarity / matching (Arabic-English merge, fuzzy match) ---
+sentence-transformers
+rapidfuzz
+
+
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+sqlalchemy
+aiosqlite
+pydantic
+PyJWT
+pwdlib
+asyncpg

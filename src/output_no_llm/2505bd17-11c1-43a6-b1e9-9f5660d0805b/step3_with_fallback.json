@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "product_name": "Burrata Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Creamy Italian burrata centered on thick tomato slices and fresh arugula, drizzled with olive oil, balsamic glaze, and homemade pesto",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 59.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\cropped_images\\burrata_salad.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Beef Carpaccio",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Paper-thin slices of raw beef topped with fresh greens, shaved parmesan, and a drizzle of lemon-infused olive oil",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 55.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\cropped_images\\beef_carpaccio.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Bresaola Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Air-dried premium beef served with mixed greens, arugula, and parmesan, lightly dressed with a fruit-vinaigrette",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 49.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\cropped_images\\air_dried_premium.jpg",
+      "confidence": {
+        "product_name": 96,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Fried Eggplant Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Golden crispy eggplant slices served with fresh salad and a creamy garlic cheese dip",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 49.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\cropped_images\\golden_crispy.jpg",
+      "confidence": {
+        "product_name": 95,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Vegetarian Antipasti Platter",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "A delightful selection of marinated vegetables, olives, cheese and crispy bruschetta",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 47.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\cropped_images\\vegetarian_antipasti_platter.jpg",
+      "confidence": {
+        "product_name": 98,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Chicken Caesar Salad",
+      "arabic_name": null,
+      "category": "Antipasti & Salads",
+      "description": "Crispy chicken served on fresh lettuce with parmesan shavings and dressing",
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 45.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": null,
+      "confidence": {
+        "product_name": 97,
+        "price": 97,
+        "arabic_name": 0
+      },
+      "_source_page": "page_2.png"
+    },
+    {
+      "product_name": "Sweet Corn Soup Veg-Chicken",
+      "arabic_name": "شوربة الذرة الحلوة (خضار/دجاج)",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 10.0
+        },
+        {
+          "size": "Regular",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\output_missing_photos\\sweet_corn_soup_veg_chicken.jpg",
+      "confidence": {
+        "product_name": 95,
+        "price": 90,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png",
+      "image_match_method": "google",
+      "image_clip_score": 0.3344890773296356
+    },
+    {
+      "product_name": "Hot 'n' Sour Soup Veg-Chicken",
+      "arabic_name": "شوربة حارة وحامضة (خضار/دجاج)",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 10.0
+        },
+        {
+          "size": "Regular",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\output_missing_photos\\hot_n_sour_soup_veg_chicken.jpg",
+      "confidence": {
+        "product_name": 94,
+        "price": 90,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png",
+      "image_match_method": "google",
+      "image_clip_score": 0.32855379581451416
+    },
+    {
+      "product_name": "Italian Creamy Soup (Veg/Mushroom)",
+      "arabic_name": "شوربة إيطالية بالكريمة (خضار/فطر)",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 22.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": "output_no_llm\\2505bd17-11c1-43a6-b1e9-9f5660d0805b\\output_missing_photos\\italian_creamy_soup_veg_mushroom.jpg",
+      "confidence": {
+        "product_name": 93,
+        "price": 95,
+        "arabic_name": 90
+      },
+      "_source_page": "page_4.png",
+      "image_match_method": "google",
+      "image_clip_score": 0.309680700302124
+    },
+    {
+      "product_name": "Italian Creamy Soup Chicken",
+      "arabic_name": "شوربة كريمية إيطالية بالدجاج",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 24.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 95,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Dal Shorba",
+      "arabic_name": "شوربة عدس",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 12.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 95,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Manchow Soup (Chicken/Vegetable)",
+      "arabic_name": "شوربة مانشو (خضار/دجاج)",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 95,
+        "arabic_name": 92
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Broccoli Cheddar Soup with Cheesy Garlic Bread",
+      "arabic_name": "شوربة بروكلي بالجبن الشيدر مع خبز بالثوم والجبن",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 22.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": true,
+      "image_file": null,
+      "confidence": {
+        "product_name": 94,
+        "price": 95,
+        "arabic_name": 88
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Tom Yum Sea Food Soup",
+      "arabic_name": "شوربة توم يوم بالمأكولات البحرية",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 95,
+        "arabic_name": 90
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Seafood/Prawn Cream Soup with Cheesy Garlic Bread",
+      "arabic_name": "شوربة كريمة بالمأكولات البحرية/الروبيان مع خبز بالثوم والجبن",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 95,
+        "arabic_name": 86
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Kozhi Rasam",
+      "arabic_name": "شوربة كوزي راسام",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 17.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 93,
+        "price": 95,
+        "arabic_name": 90
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Attin Kurumulaku Soup",
+      "arabic_name": "شوربة لحم الخنزير",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 18.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 90,
+        "price": 95,
+        "arabic_name": 85
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Spicy Attin Kaal Soup",
+      "arabic_name": "شوربة أتشكال الحارة",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 18.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 88,
+        "price": 95,
+        "arabic_name": 82
+      },
+      "_source_page": "page_4.png"
+    },
+    {
+      "product_name": "Spicy Mix Seafood Soup",
+      "arabic_name": "شوربة المأكولات البحرية المشكلة الحارة",
+      "category": "Soups",
+      "description": null,
+      "variants": [
+        {
+          "size": "Regular",
+          "price": 28.0
+        }
+      ],
+      "unit": "Each",
+      "has_photo_on_menu": false,
+      "image_file": null,
+      "confidence": {
+        "product_name": 92,
+        "price": 95,
+        "arabic_name": 88
+      },
+      "_source_page": "page_4.png"
+    }
+  ]
+}
